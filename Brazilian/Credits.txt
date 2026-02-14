@@ -1,3 +1,7 @@
 *Brazilian / Portuguese (Brazil) Translation
 
 - Brine (SkeletonGuitarz)
+
+*Special thanks to:
+
+- Salvage
