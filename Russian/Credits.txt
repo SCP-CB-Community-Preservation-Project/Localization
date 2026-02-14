@@ -1,33 +1,34 @@
-﻿*Русская локализация
+﻿*Russian Localization
 
 *CreatorMasters
 
-		Олег Сиряк
-		Иван Михайлов
-		Татьяна Низова
+		Oleg Siryak
+		Ivan Mikhailov ("Redbull.Ivan")
+		Tatyana Nizova
 
 
 *Trill Team
 
-		Иван Бадиков
-		Михаил Натариус
-		Арсений Абрамов
-		Александер Орлов
-		Илья Тесаков
-		Алексей Чеканов
-		Денис Арсенюк
-		Алексей Кузьмин
-		Саша Дешко
-		Креостат Креостовский
-		Владислав Семецкий
-		Анатолий Кононов
-		Николай Маркозов
-		Иван Михайлов
-		Дмитрий Сазанов
-		Олег Сиряк
+		Ivan Badikov
+		MIkhail Natarius ("FilinMinv")
+		Arsenii Abramov
+		Alexander Orlov
+		Ilya Tesakov
+		Alexey Chekanov
+		Denis Arsenyuk
+		Alexey Kuzmin
+		Sasha Deshko ("CmElektrik")
+		Kreostat Kreostovsky
+		Vladislav Semetsky
+		Anatolii Kononov
+		Nikolai Markozov
+		Ivan Mikhailov ("Redbull.Ivan")
+		Dmitriy Sazanov ("Dmitriy-Bars")
+		Oleg Siryak
 
 
-*А также
+*And also
 
-		Сергей Зверев
-		Zero_Gravity (mishutka154, Григорьев Михаил)
+		Sergey Zverev
+		Mikhail Grigoriev ("Zero_Gravity", "mishutka154")
+		Stefan Koch ("Salvage")
