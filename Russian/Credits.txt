@@ -10,7 +10,7 @@
 *Trill Team
 
 		Ivan Badikov
-		MIkhail Natarius ("FilinMinv")
+		Mikhail Natarius ("FilinMinv")
 		Arsenii Abramov
 		Alexander Orlov
 		Ilya Tesakov
@@ -22,9 +22,7 @@
 		Vladislav Semetsky
 		Anatolii Kononov
 		Nikolai Markozov
-		Ivan Mikhailov ("Redbull.Ivan")
 		Dmitriy Sazanov ("Dmitriy-Bars")
-		Oleg Siryak
 
 
 *And also
