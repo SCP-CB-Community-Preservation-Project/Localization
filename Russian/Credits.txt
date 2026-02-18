@@ -28,5 +28,5 @@
 *And also
 
 		Sergey Zverev
-		Mikhail Grigoriev ("Zero_Gravity", "mishutka154")
+		Mikhail Grigoriev ("Zero_Gravity")
 		Stefan Koch ("Salvage")
