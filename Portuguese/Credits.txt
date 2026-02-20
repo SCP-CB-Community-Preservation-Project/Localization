@@ -1,0 +1,9 @@
+*Portuguese (Portugal) Translation:
+
+- Norv1c/feupas (norv1c_oficial)
+- Breno ("SkeletonGuitar")
+- Mafeuso
+
+*Special thanks to:
+
+- Salvage
