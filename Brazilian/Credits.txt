@@ -1,6 +1,7 @@
 *Brazilian / Portuguese (Brazil) Translation:
 
 - Brine (SkeletonGuitarz)
+- Mafeuso
 
 *Special thanks to:
 
