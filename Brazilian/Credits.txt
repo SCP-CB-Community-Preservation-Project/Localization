@@ -1,8 +1,9 @@
-*Portuguese (Brazil) Translation:
+*Portuguese (Brazil) Translation
 
 		Breno ("SkeletonGuitar")
 		Mafeuso
 
-*Special thanks to:
+
+*Special thanks to
 
 		Stefan Koch ("Salvage")
