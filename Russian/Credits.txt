@@ -1,0 +1,32 @@
+﻿*Russian Localization
+
+*CreatorMasters
+
+		Oleg Siryak
+		Ivan Mikhailov ("Redbull.Ivan")
+		Tatyana Nizova
+
+
+*Trill Team
+
+		Ivan Badikov
+		Mikhail Natarius ("FilinMinv")
+		Arsenii Abramov
+		Alexander Orlov
+		Ilya Tesakov
+		Alexey Chekanov
+		Denis Arsenyuk
+		Alexey Kuzmin
+		Sasha Deshko ("CmElektrik")
+		Kreostat Kreostovsky
+		Vladislav Semetsky
+		Anatolii Kononov
+		Nikolai Markozov
+		Dmitriy Sazanov ("Dmitriy-Bars")
+
+
+*And also
+
+		Sergey Zverev
+		Mikhail Grigoriev ("Zero_Gravity")
+		Stefan Koch ("Salvage")
