@@ -1,7 +1,7 @@
 *Portuguese (Brazil) Translation
 
 		Breno ("SkeletonGuitar")
-		Mafeuso
+		Mateus Oliveira ("Mafeuso")
 
 
 *Special thanks to
