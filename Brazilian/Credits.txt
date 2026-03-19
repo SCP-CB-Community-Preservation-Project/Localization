@@ -1,4 +1,4 @@
-*Portuguese (Brazil) Translation
+*Portuguese (Brazil) Localization
 
 		Breno ("SkeletonGuitar" aka "Brine")
 		Mateus Oliveira ("Mafeuso")
@@ -7,6 +7,6 @@
         André de Oliveira ("AwolDarky" aka "zDarkzera")
         Renan Akamine
 
-*Special thanks to
+*Special thanks from Brazil to
 
 		Stefan Koch ("Salvage")
