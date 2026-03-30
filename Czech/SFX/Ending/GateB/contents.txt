@@ -1,0 +1,7 @@
+682Battle.ogg
+AlphaWarheadsFail.ogg
+DetonatingAlphaWarheads.ogg
+EndingB1.ogg
+EndingB2.ogg
+EndingB3.ogg
+PlayerDetect.ogg
