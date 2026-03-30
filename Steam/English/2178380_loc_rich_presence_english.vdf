@@ -1,0 +1,25 @@
+"lang"
+{
+	"Language"	"english"
+	"Tokens"
+	{
+		"#StatusMenus"	"{#Status_%gamestatus%}"
+		"#StatusGame"	"{#Status_%gamestatus%} on {#Difficulty_%difficulty%}"
+		"#Status_Menu"	"Browsing the menus"
+		"#Status_LCZ"	"Roaming the Light Containment Zone"
+		"#Status_HCZ"	"Roaming the Heavy Containment Zone"
+		"#Status_EZ"	"Roaming the Entrance Zone"
+		"#Status_jorge"	"jorge has been expecting you"
+		"#Status_Intro"	"Being tested on SCP-173"
+		"#Status_860"	"Traversing a blue-hued forest"
+		"#Status_1499"	"Wearing a GP-5 Gas Mask"
+		"#Status_PD"	"Trapped in the Pocket Dimension"
+		"#Status_GateA"	"Escaping through Gate A"
+		"#Status_GateB"	"Escaping through Gate B"
+		"#Status_MT"	"Lost in the Maintenance Tunnels"
+		"#Difficulty_Safe"	"Safe"
+		"#Difficulty_Euclid"	"Euclid"
+		"#Difficulty_Keter"	"Keter"
+		"#Difficulty_Esoteric"	"Esoteric"
+	}
+}
