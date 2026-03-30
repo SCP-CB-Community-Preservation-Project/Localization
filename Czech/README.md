@@ -23,4 +23,4 @@
 ```
 
 ### Credits
-See credits.txt for credits!
+See [Credits.txt](Credits.txt) for credits!
