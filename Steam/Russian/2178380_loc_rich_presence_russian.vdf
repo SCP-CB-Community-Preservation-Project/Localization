@@ -1,0 +1,25 @@
+"lang"
+{
+	"Language"	"russian"
+	"Tokens"
+	{
+		"#StatusMenus"	"{#Status_%gamestatus%}"
+		"#StatusGame"	"{#Status_%gamestatus%} на {#Difficulty_%difficulty%}"
+		"#Status_Menu"	"В меню"
+		"#Status_LCZ"	"В Зоне лёгкого содержания"
+		"#Status_HCZ"	"В Зоне строгого содержания"
+		"#Status_EZ"	"Во Входной зоне"
+		"#Status_jorge"	"Джордж ждал вас"
+		"#Status_Intro"	"На тестировании с SCP-173"
+		"#Status_860"	"Прогулка по голубоватому лесу"
+		"#Status_1499"	"В противогазе ГП-5"
+		"#Status_PD"	"Попал в Карманное измерение"
+		"#Status_GateA"	"Побег через Выход А"
+		"#Status_GateB"	"Побег через Выход B"
+		"#Status_MT"	"Потерялся в туннелях обслуживания"
+		"#Difficulty_Safe"	"Безопасном"
+		"#Difficulty_Euclid"	"Евклиде"
+		"#Difficulty_Keter"	"Кетере"
+		"#Difficulty_Esoteric"	"Эзотерике"
+	}
+}
