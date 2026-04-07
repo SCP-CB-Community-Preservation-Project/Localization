@@ -3,9 +3,9 @@
         Pepe el macho
 		elaniquilador
 		JoseMGS
-*Gfx
-       Deiner
-       Aaron-A
+*Traducción de imagenes
+        Aaron A
+        Deiner
 *Doblaje
 
 *PERSONAJE PRINCIPAL
