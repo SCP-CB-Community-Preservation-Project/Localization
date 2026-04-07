@@ -1,22 +1,16 @@
-## Traducción de textos
+*Traducción de textos
 
-	- Pepe el macho
-	- JoseMGS
-	- elaniquilador
+		elaniquilador
+		JoseMGS
+		Pepe el macho
 
+*Doblaje
 
-## Traducción de imagenes
-
-	- Aaron - A
-
-
-## Doblaje
-
-* PERSONAJE PRINCIPAL
+*PERSONAJE PRINCIPAL
 
 		Benjamin Oliver Walker (Clase D) – Alejandro Bono
 
-* SUJETOS SCP
+*SUJETOS SCP
 
 		SCP-035 – Marcos Abadi
 		SCP-049 – Enzo Rivera
@@ -27,7 +21,7 @@
 		SCP-939 - Emmanuel Alejandro
 		SCP-939 - Oscar Olivares
 
-* FUNDACION SCP
+*FUNDACION SCP
 
 		Agente Ulgrim – Javier Gomez
 		Agente Maynard – Sebastian Castro Saavedra
@@ -35,7 +29,7 @@
 		Intercomunicador – David Aguilera
 		Radio – Leonardo Iribe
 
-* NINE TAILED FOX
+*NINE TAILED FOX
 
 		Lider de Escuadron – Emmanuel Alejandro
 		Alpha – Martin Mariano Mendez
