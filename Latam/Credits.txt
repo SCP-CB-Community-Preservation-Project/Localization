@@ -1,9 +1,11 @@
-*Traducción de textos
+*Traducción de textos, interfaz y subtitulos
 
 		elaniquilador
 		JoseMGS
 		Pepe el macho
-
+Gfx
+       Deiner
+       Aaron-A
 *Doblaje
 
 *PERSONAJE PRINCIPAL
