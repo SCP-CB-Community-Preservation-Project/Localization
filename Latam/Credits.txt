@@ -1,9 +1,9 @@
 *Traducción de textos, interfaz y subtitulos
 
+        Pepe el macho
 		elaniquilador
 		JoseMGS
-		Pepe el macho
-Gfx
+*Gfx
        Deiner
        Aaron-A
 *Doblaje
