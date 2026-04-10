@@ -10,7 +10,7 @@
 │       SCP-294.ini.OVERRIDE                N/A     Complete
 │       SCP-294Keyboard.ini                 100%    Complete
 │       strings.ini                         99%?    Complete? (i need to check)
-│       subtitles.ini                       10%     Incomplete 
+│       subtitles.ini                       0%      Incomplete 
 │       subtitles_captions.ini              50%     Incomplete
 │
 ├───GFX
