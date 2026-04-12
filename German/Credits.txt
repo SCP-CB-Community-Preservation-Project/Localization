@@ -1,3 +1,5 @@
 *German Localization
 
         Stefan Koch ("Salvage")
+
+        Alexander Brunner ("Lestlandia")
