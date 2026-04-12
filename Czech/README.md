@@ -14,7 +14,7 @@
 │       subtitles_captions.ini              50%     Incomplete (please revise the newly updated captions are horrible)
 │
 ├───GFX
-│       294panel.jpg                        N/A     Complete
+│       check ./GFX/readme.md
 │
 ├───Loadingscreens
 │       loadingscreens.ini                  100%    Complete
