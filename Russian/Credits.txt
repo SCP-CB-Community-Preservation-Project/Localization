@@ -28,5 +28,13 @@
 *And also
 
 		Sergey Zverev
+		
+
+*Localization Contributors for Steam
+		
 		Mikhail Grigoriev ("Zero_Gravity")
+		
+
+*Special thanks to
+		
 		Stefan Koch ("Salvage")
