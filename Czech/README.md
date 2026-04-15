@@ -11,7 +11,7 @@
 │       SCP-294Keyboard.ini                 	100%    Complete
 │       strings.ini                         	100%    Complete
 │       subtitles.ini                       	50%     Incomplete 
-│       subtitles_captions.ini      			50%     Incomplete (please revise the newly updated captions are horrible)
+│       subtitles_captions.ini      		50%     Incomplete (please revise the newly updated captions are horrible)
 │
 ├───GFX
 │       check ./GFX/readme.md
