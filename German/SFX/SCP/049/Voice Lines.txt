@@ -1,0 +1,63 @@
+Searching1.ogg
+Ich weiß, dass Ihr hier drinnen seid.
+
+Searching2.ogg
+Versteckt euch doch nicht, Ich will nur helfen.
+
+Searching3.ogg
+Ich hör' dich atmen.
+
+Searching4.ogg
+Ich seh doch dass es euch nicht gut geht. Die Seuche, hat euch befallen.
+
+Searching5.ogg
+Fürchte doch nicht, Ich will euch kein Leid.
+
+Searching6.ogg
+Ich spüre die Krankheit in euch.
+
+Searching7.ogg
+Hoppe, hoppe, Reiter, Sollt er fallen, dann schreit er. Im Graben, im Graben, fressen ihn die Raben.
+
+Spotted1.ogg
+Mein Erbahrmen, noch ein Opfer der Krankheit.
+
+Spotted2.ogg
+Ihr seid kein Arzt.
+
+Spotted3.ogg
+Ich bin die Heilung.
+
+Spotted4.ogg
+Keine Furcht, Ich bin die Heilung.
+
+Spotted5.ogg
+Da seit Ihr.
+
+Spotted6.ogg
+Hallo.
+
+Spotted7.ogg
+Grüße.
+
+DetectedInChamber.ogg
+Ah, Ich wusste nicht dass wir Gesellschaft haben.
+Wir bekommen hier selten Besucher.
+
+Kidnap1.ogg
+Es tut weniger Weh, wenn ihr ruhig liegen bleibt.
+
+Kidnap2.ogg
+Ich versichere euch, meine Heilung ist die effektivste.
+
+714Equipped.ogg
+Hört auf euch zu wehren. Ich will euch heilen.
+
+TakeOffHazmat.ogg
+Lasst uns dieses komische Gewand ausziehen.
+
+Room2SL1.ogg
+Beim Herr'n! Es ist schlimmer als Ich es für möglich hielt. Es breitet sich aus, wie ein Lauffeuer.
+
+Room2SL2.ogg
+Ich muss ans Werke gehen, bevor die Krankheit den Armen übrigen Seelen den Rest gibt.
