@@ -7,6 +7,8 @@
         André de Oliveira ("AwolDarky" aka "zDarkzera")
         Renan Akamine
 
+* Vários textos em documentos de objetos SCPs são do site oficial da Fundação Lusófona (filial em português do SCP Foundation Wiki).
+
 *Special thanks from Brazil to
 
 		Stefan Koch ("Salvage")
