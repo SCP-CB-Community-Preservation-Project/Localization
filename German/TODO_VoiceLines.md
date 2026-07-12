@@ -14,12 +14,6 @@
 - [ ] Idle6.ogg
 - [ ] Sniffling.ogg
 
-## SFX/Character/MTF/049 (1)
-- [ ] Spotted1.ogg
-
-## SFX/Character/MTF/173 (1)
-- [ ] Box3.ogg
-
 ## SFX/Ending/GateA (1)
 - [ ] EndingA1.ogg
 
