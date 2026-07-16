@@ -1,5 +1,3 @@
-# offene Voicelines (97)
-
 ## SFX/Character/Janitor (2)
 - [ ] 106Abduct.ogg
 - [ ] Idle.ogg
@@ -96,39 +94,10 @@
 - [ ] Officer2.ogg
 - [ ] Officer3.ogg
 
-## SFX/SCP/939 (32)
-- [ ] 0Alert1.ogg
-- [ ] 0Alert2.ogg
-- [ ] 0Alert3.ogg
-- [ ] 0Attack1.ogg
-- [ ] 0Attack2.ogg
-- [ ] 0Attack3.ogg
-- [ ] 0Lure1.ogg
-- [ ] 0Lure2.ogg
-- [ ] 0Lure3.ogg
-- [ ] 0Lure4.ogg
-- [ ] 0Lure5.ogg
-- [ ] 0Lure6.ogg
-- [ ] 0Lure7.ogg
-- [ ] 0Lure8.ogg
-- [ ] 0Lure9.ogg
-- [ ] 0Lure10.ogg
-- [ ] 1Alert1.ogg
-- [ ] 1Alert2.ogg
-- [ ] 1Alert3.ogg
+## SFX/SCP/939 (3)
 - [ ] 1Attack1.ogg
 - [ ] 1Attack2.ogg
 - [ ] 1Attack3.ogg
-- [ ] 1Lure1.ogg
-- [ ] 1Lure2.ogg
-- [ ] 1Lure3.ogg
-- [ ] 1Lure4.ogg
-- [ ] 1Lure5.ogg
-- [ ] 1Lure6.ogg
-- [ ] 1Lure7.ogg
-- [ ] 1Lure8.ogg
-- [ ] 1Lure9.ogg
-- [ ] 1Lure10.ogg
 
 ## SFX/SCP/Joke (1)
 - [ ] 789J.ogg
